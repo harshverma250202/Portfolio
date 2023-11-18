@@ -3,7 +3,7 @@ date: '2022-07-01'
 title: 'Associate Manager'
 tabtitle: 'E-cell'
 company: 'Entrepreneurship Cell, IIT Kharagpur'
-location: 'Remote'
+location: 'Onsite'
 range: 'June 2021 - July 2022'
 url: 'https://www.ecell-iitkgp.org/'
 ---

@@ -64,7 +64,7 @@ const Hero = () => {
   const three = <h3 className="big-heading">I build things for the web.</h3>;
   const four = (
     <>
-      <p>
+      <p style={{ textAlign: `justify` }}>
         I’m a software engineer specializing specializing in back-end infrastructures and APIs, I
         offer expertise in designing and building scalable and reliable software solutions .
       </p>
@@ -73,10 +73,10 @@ const Hero = () => {
   const five = (
     <a
       className="email-link"
-      href="mailto:harshwasnik160602@gmail.com"
+      href="resume.pdf"
       target="_blank"
       rel="noreferrer">
-      Say Hello !
+      Resume
     </a>
   );
 

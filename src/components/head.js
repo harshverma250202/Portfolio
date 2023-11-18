@@ -60,7 +60,7 @@ const Head = ({ title, description, image }) => {
       <meta name="twitter:image" content={seo.image} />
       <meta
         name="keywords"
-        content="Harsh, Wasnik, Harsh Wasnik, harshwasnik, HW, hw, Nagpur, Maharashtra, West Bengal ,ecell, KGP, Kharagpur, iit, iit kgp, IIT Kharagpur,  Entrepreneurship, Startup, Full stack developer, frontend developer, backend developer, software developer, student, undergraduate"
+        content="Harsh, Verma, Harsh Verma, harshverma,harsh verma,Harsh verma, Hv, hv, kanpur, uttar pradesh, West Bengal ,ecell, KGP, Kharagpur, iit, iit kgp, IIT Kharagpur,  Entrepreneurship, Startup, Full stack developer, frontend developer, backend developer, software developer, student, undergraduate"
       />
       <meta name="google-site-verification" content="X_7G7xm4y89OxjPoPF8Sq-GlzW3Dp0U5oSW52cK79YA" />
     </Helmet>

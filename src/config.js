@@ -1,22 +1,22 @@
 module.exports = {
-  email: 'harshwasnik160602@gmail.com',
+  email: 'harshverma250202@gmail.com',
 
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/MUCCHU',
+      url: 'https://github.com/harshverma250202',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/mucchu1606',
+      url: 'https://www.instagram.com/aquaregia25_',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/HarshWasnik1606',
+      url: 'https://twitter.com/aquaregia25',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/harsh-wasnik-60b63b1b9/',
+      url: 'https://www.linkedin.com/in/harshverma25/',
     },
     // {
     //   name: 'Codepen',

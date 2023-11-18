@@ -140,8 +140,7 @@ const About = () => {
               the internet, whether that be websites, applications, or anything in between.
             </p>
             <p>
-              I am a pre-final year student at IIT Kharagpur pursuing Integrated M.Sc. in
-              Mathematics and Computing. Originally from Nagpur, Maharashtra, I am currently living
+              I am a Final year student at IIT Kharagpur. Originally from Kanpur, UP, I am currently living
               in Kharagpur, West Bengal.
             </p>
             <p>
@@ -161,9 +160,10 @@ const About = () => {
           <div className="wrapper">
             <StaticImage
               className="img"
-              src="../../images/me.jpg"
+              src="../../images/me.jpeg"
               width={500}
               quality={95}
+              backgroundColor='transparent'
               formats={['AUTO', 'WEBP', 'AVIF']}
               alt="Headshot"
             />
