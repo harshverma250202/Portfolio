@@ -3,7 +3,7 @@ date: '1'
 title: 'Trading Portal'
 cover: './trading.png'
 github: 'https://github.com/hack-an-intern'
-external: 'http://trading.harshverma.live'
+external: 'https://trading-system.netlify.app/'
 tech:
   - Go
   - AWS

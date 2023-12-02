@@ -3,8 +3,7 @@ date: '2'
 title: 'TSG Web Hackathon'
 cover: './tsg.png'
 github: 'https://github.com/TSG-Website'
-external: 'http://tsghackathon.harshverma.live
-'
+external: 'https://tsg-hackathon-gold-prize.netlify.app/'
 tech:
   - Django
   - React
